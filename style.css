@@ -1,0 +1,15 @@
+#pic{
+    width: 40%;
+}
+html{
+    background-color: cornsilk;
+}
+*{
+    color: rgba(225, 15, 15, 0.676);
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Stylish', sans-serif;
+}
+.heading{
+    margin-right: 100px;
+}
